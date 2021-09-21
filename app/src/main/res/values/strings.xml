@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex42</string>
+    <string name="tvRed">Red</string>
+    <string name="tvGreen">Green</string>
+    <string name="tvBlue">Blue</string>
+    <string name="tvTitle">Please Select the Background Color</string>
+    <string name="toastText">start color</string>
+    <string name="test">${this.getResources().getText(R.string.toastText)}</string>
+</resources>
